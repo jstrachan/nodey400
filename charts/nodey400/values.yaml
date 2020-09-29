@@ -4,7 +4,7 @@
 replicaCount: 1
 image:
   repository: gcr.io/jenkins-x-labs-bdd/nodey400
-  tag: 0.0.15
+  tag: 0.0.16
   pullPolicy: IfNotPresent
 
 # define environment variables here as a map of key: value
