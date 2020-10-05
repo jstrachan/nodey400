@@ -1,2 +1,2 @@
 buildPack: go
-buildPackGitURL: https://github.com/jenkins-x/jxr-packs-kubernetes/tree/master/packs
+buildPackGitURL: https://github.com/jenkins-x/jxr-packs-kubernetes
