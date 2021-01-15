@@ -12,7 +12,7 @@
   </thead>
   <tbody>
     <tr>
-		      <td colspan='4'><b>cert-manager</b></td>
+		      <td colspan='4'><h3>cert-manager</h3></td>
 		    </tr>
 	    <tr>
 	      <td><a href='https://github.com/jetstack/cert-manager' title='A Helm chart for cert-manager'> <img src='https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png' width='24px' height='24px'> cert-manager </a></td>
@@ -21,7 +21,7 @@
 	      <td><a href='https://github.com/jetstack/cert-manager'>source</a></td>
 	    </tr>
     <tr>
-		      <td colspan='4'><b>jx-staging</b></td>
+		      <td colspan='4'><h3>jx-staging</h3></td>
 		    </tr>
 	    <tr>
 	      <td><a href='' title='A Helm chart for Kubernetes'> <img src='https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png' width='24px' height='24px'> nodey554 </a></td>
@@ -30,7 +30,7 @@
 	      <td></td>
 	    </tr>
     <tr>
-		      <td colspan='4'><b>jx</b></td>
+		      <td colspan='4'><h3>jx</h3></td>
 		    </tr>
 	    <tr>
 	      <td><a href='https://github.com/kubernetes-sigs/external-dns' title='ExternalDNS is a Kubernetes addon that configures public DNS servers with information about exposed Kubernetes services to make them discoverable.'> <img src='https://bitnami.com/assets/stacks/external-dns/img/external-dns-stack-110x117.png' width='24px' height='24px'> external-dns </a></td>
@@ -95,7 +95,7 @@
 	      <td><a href='https://jenkins-x.io/'>source</a></td>
 	    </tr>
     <tr>
-		      <td colspan='4'><b>myjenkinsa</b></td>
+		      <td colspan='4'><h3>myjenkinsa</h3></td>
 		    </tr>
 	    <tr>
 	      <td><a href='https://jenkins.io/' title='Jenkins - Build great things at any scale! The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.'> <img src='https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png' width='24px' height='24px'> jenkins </a></td>
@@ -110,7 +110,7 @@
 	      <td></td>
 	    </tr>
     <tr>
-		      <td colspan='4'><b>nginx</b></td>
+		      <td colspan='4'><h3>nginx</h3></td>
 		    </tr>
 	    <tr>
 	      <td><a href='https://github.com/kubernetes/ingress-nginx' title='Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png' width='24px' height='24px'> ingress-nginx </a></td>
@@ -119,7 +119,7 @@
 	      <td><a href='https://github.com/kubernetes/ingress-nginx'>source</a></td>
 	    </tr>
     <tr>
-		      <td colspan='4'><b>secret-infra</b></td>
+		      <td colspan='4'><h3>secret-infra</h3></td>
 		    </tr>
 	    <tr>
 	      <td><a href='https://github.com/godaddy/kubernetes-external-secrets' title='Kubernetes External Secrets CustomResourceDefinition'> <img src='' width='24px' height='24px'> kubernetes-external-secrets </a></td>
@@ -134,7 +134,7 @@
 	      <td><a href='https://github.com/pusher/wave'>source</a></td>
 	    </tr>
     <tr>
-		      <td colspan='4'><b>tekton-pipelines</b></td>
+		      <td colspan='4'><h3>tekton-pipelines</h3></td>
 		    </tr>
 	    <tr>
 	      <td><a href='https://github.com/cdfoundation/tekton-helm-chart' title='A Helm chart for Tekton Pipelines'> <img src='https://avatars2.githubusercontent.com/u/47602533' width='24px' height='24px'> tekton-pipeline </a></td>
