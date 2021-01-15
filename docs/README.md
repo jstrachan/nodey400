@@ -48,6 +48,7 @@
       <th scope="col">Source</th>
     </tr>
   </thead>
+	
   <tbody>
     <tr>
 	      <td><a href='https://github.com/kubernetes-sigs/external-dns' title='ExternalDNS is a Kubernetes addon that configures public DNS servers with information about exposed Kubernetes services to make them discoverable.'> <img src='https://bitnami.com/assets/stacks/external-dns/img/external-dns-stack-110x117.png' width='24px' height='24px'> external-dns </a></td>
