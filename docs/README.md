@@ -1,14 +1,5 @@
 # Deployments
 
-<style>
-table:nth-of-type(1) {
-    display:table;
-    width:100%;
-}
-table:nth-of-type(1) th:nth-of-type(2) {
-    width:10%;
-}
-</style>
 
 ## cert-manager
 
@@ -59,10 +50,10 @@ table:nth-of-type(1) th:nth-of-type(2) {
 ## jx
 
 
-<table class="table table-hover">
+<table class="table table-hover" style="width:100%">
   <thead>
     <tr>
-      <th scope="col" width="250px">Chart</th>
+      <th scope="col" style="width:50%">Chart</th>
       <th scope="col">Version</th>
       <th scope="col">Open</th>
       <th scope="col">Source</th>
