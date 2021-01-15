@@ -12,7 +12,7 @@
   </thead>
   <tbody>
     <tr>
-		      <td colspan='4'><b>&{helmfiles/cert-manager/helmfile.yaml cert-manager [cert-manager version: 1.1.0 icon: https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png]}</b></td>
+		      <td colspan='4'><b>cert-manager</b></td>
 		    </tr>
 	    <tr>
 	      <td><a href='https://github.com/jetstack/cert-manager' title='A Helm chart for cert-manager'> <img src='https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png' width='24px' height='24px'> cert-manager </a></td>
@@ -21,7 +21,7 @@
 	      <td><a href='https://github.com/jetstack/cert-manager'>source</a></td>
 	    </tr>
     <tr>
-		      <td colspan='4'><b>&{helmfiles/jx-staging/helmfile.yaml jx-staging [nodey554 version: 1.0.19 icon: https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png]}</b></td>
+		      <td colspan='4'><b>jx-staging</b></td>
 		    </tr>
 	    <tr>
 	      <td><a href='' title='A Helm chart for Kubernetes'> <img src='https://raw.githubusercontent.com/cdfoundation/artwork/master/jenkinsx/icon/color/jenkinsx-icon-color.png' width='24px' height='24px'> nodey554 </a></td>
@@ -30,7 +30,7 @@
 	      <td></td>
 	    </tr>
     <tr>
-		      <td colspan='4'><b>&{helmfiles/jx/helmfile.yaml jx [external-dns version: 3.2.0 icon: https://bitnami.com/assets/stacks/external-dns/img/external-dns-stack-110x117.png acme version: 0.0.18 icon: https://avatars2.githubusercontent.com/u/35583233?s=200&v=4 jxboot-helmfile-resources version: 1.0.23 icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-website/master/images/logo/jenkinsx-icon-color.svg jenkins-x-crds version: 3.0.5 icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/d273e09/images/go.png jx-pipelines-visualizer version: 0.0.61 icon:  jx-preview version: 0.0.138 icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-website/master/images/logo/jenkinsx-icon-color.svg lighthouse version: 0.0.903 icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-website/master/images/logo/jenkinsx-icon-color.svg nexus version: 0.1.35 icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/jenkins-x-platform/images/nexus.png chartmuseum version: 2.4.1 icon: https://raw.githubusercontent.com/helm/chartmuseum/master/logo2.png jx-build-controller version: 0.0.20 icon: https://jenkins-x.github.io/jenkins-x-website/img/profile.png]}</b></td>
+		      <td colspan='4'><b>jx</b></td>
 		    </tr>
 	    <tr>
 	      <td><a href='https://github.com/kubernetes-sigs/external-dns' title='ExternalDNS is a Kubernetes addon that configures public DNS servers with information about exposed Kubernetes services to make them discoverable.'> <img src='https://bitnami.com/assets/stacks/external-dns/img/external-dns-stack-110x117.png' width='24px' height='24px'> external-dns </a></td>
@@ -95,7 +95,7 @@
 	      <td><a href='https://jenkins-x.io/'>source</a></td>
 	    </tr>
     <tr>
-		      <td colspan='4'><b>&{helmfiles/myjenkinsa/helmfile.yaml myjenkinsa [jenkins version:  icon: https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png jenkins-resources version:  icon: ]}</b></td>
+		      <td colspan='4'><b>myjenkinsa</b></td>
 		    </tr>
 	    <tr>
 	      <td><a href='https://jenkins.io/' title='Jenkins - Build great things at any scale! The leading open source automation server, Jenkins provides hundreds of plugins to support building, deploying and automating any project.'> <img src='https://wiki.jenkins-ci.org/download/attachments/2916393/logo.png' width='24px' height='24px'> jenkins </a></td>
@@ -110,7 +110,7 @@
 	      <td></td>
 	    </tr>
     <tr>
-		      <td colspan='4'><b>&{helmfiles/nginx/helmfile.yaml nginx [ingress-nginx version: 3.12.0 icon: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png]}</b></td>
+		      <td colspan='4'><b>nginx</b></td>
 		    </tr>
 	    <tr>
 	      <td><a href='https://github.com/kubernetes/ingress-nginx' title='Ingress controller for Kubernetes using NGINX as a reverse proxy and load balancer'> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nginx_logo.svg/500px-Nginx_logo.svg.png' width='24px' height='24px'> ingress-nginx </a></td>
@@ -119,7 +119,7 @@
 	      <td><a href='https://github.com/kubernetes/ingress-nginx'>source</a></td>
 	    </tr>
     <tr>
-		      <td colspan='4'><b>&{helmfiles/secret-infra/helmfile.yaml secret-infra [kubernetes-external-secrets version: 6.0.0 icon:  pusher-wave version: 0.4.12 icon: ]}</b></td>
+		      <td colspan='4'><b>secret-infra</b></td>
 		    </tr>
 	    <tr>
 	      <td><a href='https://github.com/godaddy/kubernetes-external-secrets' title='Kubernetes External Secrets CustomResourceDefinition'> <img src='' width='24px' height='24px'> kubernetes-external-secrets </a></td>
@@ -134,7 +134,7 @@
 	      <td><a href='https://github.com/pusher/wave'>source</a></td>
 	    </tr>
     <tr>
-		      <td colspan='4'><b>&{helmfiles/tekton-pipelines/helmfile.yaml tekton-pipelines [tekton-pipeline version: 0.19.0 icon: https://avatars2.githubusercontent.com/u/47602533]}</b></td>
+		      <td colspan='4'><b>tekton-pipelines</b></td>
 		    </tr>
 	    <tr>
 	      <td><a href='https://github.com/cdfoundation/tekton-helm-chart' title='A Helm chart for Tekton Pipelines'> <img src='https://avatars2.githubusercontent.com/u/47602533' width='24px' height='24px'> tekton-pipeline </a></td>
