@@ -1,9 +1,6 @@
 # Deployments
 
 
-## cert-manager
-
-
 <table class="table">
   <thead>
     <tr>
@@ -17,7 +14,8 @@
     <tr>
 	    <td colspan="4"><b>jx</b></td>
 	</tr>
-	<tr>
+
+<tr>
 	      <td><a href='https://github.com/jetstack/cert-manager' title='A Helm chart for cert-manager'> <img src='https://raw.githubusercontent.com/jetstack/cert-manager/master/logo/logo.png' width='24px' height='24px'> cert-manager </a></td>
 	      <td>1.1.0</td>
 	      <td></td>
@@ -26,7 +24,6 @@
 
     <tr>
 	    <td colspan="4"><b>jx-staging</b></td>
-	</td>
     </tr>
     
     <tr>
