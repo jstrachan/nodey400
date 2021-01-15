@@ -53,7 +53,7 @@
 <table class="table table-hover">
   <thead>
     <tr>
-      <th scope="col" class="w-50">Chart</th>
+      <th scope="col" width="250px">Chart</th>
       <th scope="col">Version</th>
       <th scope="col">Open</th>
       <th scope="col">Source</th>
