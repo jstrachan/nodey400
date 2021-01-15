@@ -27,7 +27,7 @@
 ## jx-staging
 
 
-<table class="table">
+<table class="table" width="100%">
   <thead>
     <tr>
       <th scope="col">Chart</th>
