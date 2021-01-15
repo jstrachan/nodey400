@@ -50,10 +50,10 @@
 ## jx
 
 
-<table class="table">
+<table class="table table-hover">
   <thead>
     <tr>
-      <th scope="col">Chart</th>
+      <th scope="col" class="w-50">Chart</th>
       <th scope="col">Version</th>
       <th scope="col">Open</th>
       <th scope="col">Source</th>
